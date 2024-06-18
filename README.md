@@ -4,6 +4,12 @@
   <img src="https://render.gitanimals.org/lines/{CodeBear16}?pet-id=1" width="1000" height="120"/>
 </a>
 
+---
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{CodeBear16}"/>
+</a>
+
 <!--
 **CodeBear16/CodeBear16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
